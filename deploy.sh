@@ -21,4 +21,4 @@ cd $FLASK_APP_DIR
 # Perform Git operations
 git add .
 git commit -m "Update: Deploy changes"
-git push origin main  # Replace 'main' with your branch name if different
+git push origin main  # Replace 'main' with your branch name if diffe
